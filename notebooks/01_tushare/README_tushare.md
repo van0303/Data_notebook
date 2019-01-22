@@ -5,3 +5,17 @@
 [Tushare](https://tushare.pro/register?reg=232248)
 
 https://github.com/waditu/tushare
+
+
+## 配置文件
+
+config.ini 文件格式如下:
+
+```
+[tushare]
+token=xxxxxxxx
+
+```
+
+通过 [Tushare](https://tushare.pro/register?reg=232248) 注册帐号获取 token
+
