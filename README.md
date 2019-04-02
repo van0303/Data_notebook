@@ -25,3 +25,9 @@
 [alphavantage](https://www.alphavantage.co)
 
 [Alpha Vantage git python](https://github.com/RomelTorres/alpha_vantage)
+
+## JQData
+
+> JQData是聚宽数据团队专门为金融机构、学术团体和量化研究者们提供的本地量化金融数据服务。使用JQData，可快速查看和计算金融数据，无障碍解决本地、Web、金融终端调用数据的需求。历经3年沉淀，15万宽客及数百家机构投研交易验证。
+
+[JQData](https://www.joinquant.com/help/api/help?name=JQData)
